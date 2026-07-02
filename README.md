@@ -1,4 +1,4 @@
 # 100-Days-of-MLOps
-|| This repository has solution of 100 Days of MLOps tasks from KodeKloud Engineer ||
+|| This repository contains solutions for the **100 Days of MLOps** tasks from the **KodeKloud Engineer** program ||
 
 **Certificate Link**:
